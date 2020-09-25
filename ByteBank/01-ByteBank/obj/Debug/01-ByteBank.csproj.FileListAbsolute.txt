@@ -1,0 +1,7 @@
+C:\Projetos\WEB\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Projetos\WEB\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Projetos\WEB\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Projetos\WEB\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csprojAssemblyReference.cache
+C:\Projetos\WEB\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Projetos\WEB\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Projetos\WEB\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
