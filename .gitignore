@@ -141,3 +141,5 @@ publish/
 #!**/packages/repositories.config
 
 .vs/AprendendoCSharp/v15/Server/
+ByteBank/.vs
+ByteBank2/.vs
